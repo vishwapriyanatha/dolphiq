@@ -7,10 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About project
-- Can create resident, residence and assing to each resident and residence
-- Simple invoice for each assing residence
-
 ## Setup project
 - git clone the project
 - **composer install**
